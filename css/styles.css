@@ -11385,6 +11385,17 @@ p.lead {
     display: block;
   }
 }
+
+.register{
+
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
